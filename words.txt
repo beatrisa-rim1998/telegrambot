@@ -1,0 +1,164 @@
+Дни
+
+день рождения 	birthday
+днем 	in the afternoon
+завтра 	tomorrow
+закат 	sunset, dusk
+каждый день 	every day
+неделя 	week
+ночь 	night
+ночью 	at night
+в ночи 	in the night
+позавчера 	the day before yesterday
+полдень 	noon, midday
+в полдень 	at noon, at midday
+полночь 	midnight
+в полночь 	at midnight
+далеко за полночь 	in the small hours; in the early hours of the morning
+послезавтра 	the day after tomorrow
+праздник 	holiday
+рассвет 	dawn, daybreak, break of day
+ни свет ни заря 	at the crack of dawn
+сегодня 	today
+семидневная неделя 	the seven-day week
+следующий день 	next day
+выходной, конец недели (время отдыха с вечера пятницы до понедельника) 	weekend
+утро 	morning
+утром 	in the morning
+хороший день 	nice day
+через два дня 	in two days
+вечером 	in the evening, at night
+восход 	sunrise
+вчера 	yesterday
+выходной 	day off
+
+
+Грамматика
+
+аббревиатура 	abbreviation
+абзац 	paragraph
+акроним 	acronym
+анаграмма 	anagram
+антоним 	antonym
+апостроф 	apostrophe
+артикль 	article
+будущее время 	future tense
+возвратное местоимение 	reflexive pronoun
+вопросительный знак 	question mark
+восклицательный знак 	exclamation mark / exclamation point
+время (грамматическое) 	tense
+вспомогательный глагол 	auxiliary verb
+второе лицо 	second person
+герундий 	gerund
+главное предложение 	main clause
+глагол 	verb
+глагол-связка 	linking verb
+грамматический 	grammatical
+двоеточие 	colon
+действительный залог 	active voice
+дефис 	hyphen
+диалект 	dialect
+дополнение 	object
+единственное число 	singular
+запятая 	comma
+идиома 	idiom
+изменение формы слова 	inflection
+имя нарицательное 	common noun
+имя собственное 	proper noun
+инфинитив 	infinitive
+кавычки 	quotation mark
+коммуникация 	communication
+круглые скобки 	parentheses
+лингвист 	linguist
+лингвистика 	linguistics
+личное местоимение 	personal pronoun
+междометие 	interjection
+местоимение 	pronoun
+метафора 	metaphor
+множественное число 	plural
+морфология 	morphology
+написание 	spelling
+наречие 	adverb
+настоящее время 	present tense
+омоним 	homonym
+омофон 	homophone
+
+
+Животные
+
+альбатрос	albatross
+аллигатор	alligator
+акула	shark
+анаконда	anaconda
+антилопа	antelope
+альпака	alpaca
+архар	wild ram
+аспид	asp
+бабуин	baboon
+байбак	loafer
+баран	sheep
+барибал	americanb
+барсук	badger
+бекас	snipe
+белка	squirrel
+бизон	bison
+бобер	beaver
+бонтбок	bontbok
+бурундук	chipmunk
+бык	bull
+варан	monitorli
+верблюд	camel
+волк	wolf
+выдра	otter
+выхухоль	desman
+гадюка	adder
+газель	gazelle
+гамадрил	hamadryas
+геккон	gecko
+гепард	cheetah
+гиббон	gibbon
+гиена	hyena
+гиппопотам	hippopotam
+гну	gnu
+горилла	gorilla
+гризли	grizzly
+гусь	goose
+дикобраз	porcupine
+динго	dingo
+динозавр	dinosaur
+енот	raccoon;c
+ехидна	echidna
+еж	hedgehog
+жаба	toad
+жираф	giraffe
+заяц	hare
+зебра	zebra
+змея	snake
+зубр	aurochs
+иволга	oriole
+игуана	iguana
+индейка	turkey
+индюк	turkey
+ирбис	snowleopa
+кабан	wildboar
+кайман	cayman
+катран	spurdog
+кашалот	cachalot
+квакша	treefrog
+кенгуру	kangaroo
+кит	whale
+кобра	cobra
+коала	koala
+коза	goat
+козел	he-goat
+койот	coyote
+конь	horse
+корова	cow
+кот	tomcat
+кошка	cat
+крокодил	crocodile
+кролик	rabbit
+крот	mole
+крыса	rat
+кряква	wildduck
+куница	marten
